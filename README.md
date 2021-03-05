@@ -14,6 +14,6 @@ We provide no warranty that it will work with your data, it may be a good starti
 
 Enjoy and comment,
 
-Sarael Alcauter
+Sarael Alcauter (alcauter at inb.unam.mx)
 
 GitHub version, march 5, 2021 
