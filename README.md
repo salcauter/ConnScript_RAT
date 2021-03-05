@@ -1,10 +1,11 @@
 # ConnScript_RAT
 
-Scripts for preprocessing resting-state fMRI data in Don Clusterio
-Other sites may just check the definitions for the atlas and how to call fsl ($FSLDIR), ants and afni.
+Scripts for preprocessing resting-state fMRI data in Don Clusterio.
 
-The scripts change the voxel-size to avoid sub-milimeter dimensions (currently x10, the atlas is also changed accordingly)
-Note that some lines are aimed at reorienting the images as the Atlas
+Other sites/computers may use it, just check the definitions for the atlas and how to call fsl ($FSLDIR), ants and afni.
+
+The scripts change the voxel-size to avoid sub-milimeter dimensions (currently x10, the atlas is also changed accordingly).
+Note that some lines are aimed at reorienting the images as the Atlas.
 Also some variables are defined at the beginning of the file, check accordingly.
 Although we like BIDS for the folder/files naming, we are not fully bids-compatible.
 
